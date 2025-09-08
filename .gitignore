@@ -1,0 +1,17 @@
+.venv
+.env
+__pycache__
+node_modules
+.DS_Store
+.next
+out
+npm-debug.log
+yarn-error.log
+.vscode
+.idea
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
